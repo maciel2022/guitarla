@@ -19,7 +19,7 @@ Para instalar y ejecutar este proyecto en tu máquina local, sigue estos pasos:
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/....
+   git clone https://github.com/maciel2022/guitarla.git
    cd guitarla
    ```
 2. **Instala las dependencias:**
