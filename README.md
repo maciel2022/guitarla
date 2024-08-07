@@ -1,6 +1,6 @@
 # Guitarla
 
-Guitarla es mi primer proyecto construido con React y Vite. Es una tienda virtual muy sencilla para agregar items dentro del carrito. También utilizo localStorage para mantener los artículos persistentes en el sitio.
+Guitarla es mi primer proyecto construido con React y Vite. Es una tienda virtual muy sencilla para agregar items dentro del carrito.
 
 ## Descripción
 
